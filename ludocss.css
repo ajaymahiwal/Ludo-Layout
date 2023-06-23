@@ -1,11 +1,16 @@
-*{
+
+html{
     box-sizing: border-box;
+}
+*{
+    box-sizing:inherit;
     padding: 0;
     margin: 0; 
 }
-
+/*remeber github problem date 23/06/23*/
 body{
     height: 150vh;
+    
 }
 .container{
     margin: 0 30%;
