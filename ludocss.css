@@ -226,3 +226,34 @@ top: 0;
 right: 5.2px;
 }
 
+
+
+h1{
+    margin: 3%;
+    color: blueviolet;
+    text-decoration: underline blueviolet wavy 5px;
+}
+
+.line-top{
+    background-color: yellow;
+}
+.line-mid{
+    background-color: lime;
+}
+.line-mid-rgt{
+    background-color: aqua;
+}
+.line-down{
+    background-color: red;
+}
+
+.github{
+    /* display: inline-block; */
+    width: 100px;
+    /* margin: auto; */
+}
+.main{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
